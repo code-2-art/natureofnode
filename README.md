@@ -9,6 +9,7 @@ It was originally implemented based on p5js, and is re-implemented here using va
 
 # RE-implement
 - [MaxMSP](./maxmsp)
+  - Contributors: @avantcontra
 - Blender Sverchok
 - Blender XXX Nodes
 - Unreal Blueprint
