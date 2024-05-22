@@ -14,7 +14,8 @@ It was originally implemented based on p5js, and is re-implemented here using va
 - Blender XXX Nodes
 - Unreal Blueprint
 - Unity Visual Scripting
-- TouchDesigner
+- [TouchDesigner](./touchdesigner)
+  - Contributors: [@3eyesnuts](https://github.com/boohboohmuyi)
 - XXX
 
 # Discussion
