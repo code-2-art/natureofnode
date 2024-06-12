@@ -10,7 +10,8 @@ It was originally implemented based on p5js, and is re-implemented here using va
 # RE-implement
 - [MaxMSP](./maxmsp)
   - Contributors: [@avantcontra](https://github.com/avantcontra)
-- Blender Sverchok
+- [Blender Sverchok](./blender-sverchok)
+  - Contributors: [@avantcontra](https://github.com/avantcontra)
 - Blender XXX Nodes
 - Unreal Blueprint
 - Unity Visual Scripting
